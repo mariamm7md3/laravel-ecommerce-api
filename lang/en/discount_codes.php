@@ -1,0 +1,32 @@
+<?php
+
+
+return [
+    'discount_codes' => 'Discount Codes',
+    'code' => 'Code',
+    'percentage' => 'Discount Percentage',
+    'max_discount_limit' => 'Maximum Discount',
+    'usage_limit' => 'Usage Limit',
+    'usage' => 'Usage',
+    'is_once' => 'Once',
+    'is_once_hint' => 'One-time use per customer',
+    'start_date' => 'Start Date',
+    'end_date' => 'End Date',
+    'active_column' => 'Status',
+    'active' => 'Active',
+    'inactive' => 'Inactive',
+    'actions' => 'Actions',
+    'no_discount_codes_found' => 'No discount codes found',
+    'create_discount_code' => 'Create Discount Code',
+    'edit_discount_code' => 'Edit Discount Code',
+    'search_placeholder' => 'Search by code',
+    'filter_status' => 'All Statuses',
+    'search' => 'Search',
+    'save' => 'Save',
+    'cancel' => 'Cancel',
+    'created' => 'Discount code created successfully',
+    'updated' => 'Discount code updated successfully',
+    'deleted' => 'Discount code deleted successfully',
+    'confirm_delete' => 'Are you sure you want to delete this?',
+    'cannot_delete_used' => 'Cannot delete a discount code that has been used in orders',
+];

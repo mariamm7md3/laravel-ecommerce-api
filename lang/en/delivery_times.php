@@ -1,0 +1,30 @@
+<?php
+
+
+return [
+    'delivery_times' => 'Delivery Times',
+    'branch' => 'Branch',
+    'day' => 'Day',
+    'time_range' => 'Time Range',
+    'active_column' => 'Status',
+    'active' => 'Active',
+    'inactive' => 'Inactive',
+    'actions' => 'Actions',
+    'no_delivery_times_found' => 'No delivery times found',
+    'create_delivery_time' => 'Create Delivery Time',
+    'edit_delivery_time' => 'Edit Delivery Time',
+    'filter_branch' => 'All Branches',
+    'filter_day' => 'All Days',
+    'search' => 'Search',
+    'select_branch' => 'Select Branch',
+    'select_day' => 'Select Day',
+    'start_time' => 'Start Time',
+    'end_time' => 'End Time',
+    'save' => 'Save',
+    'cancel' => 'Cancel',
+    'created' => 'Delivery time created successfully',
+    'updated' => 'Delivery time updated successfully',
+    'deleted' => 'Delivery time deleted successfully',
+    'confirm_delete' => 'Are you sure you want to delete this?',
+    'cannot_delete_has_orders' => 'This delivery time cannot be deleted because it has associated orders',
+];

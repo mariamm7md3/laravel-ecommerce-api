@@ -1,0 +1,7 @@
+{
+  "q": "مكوّن يضيف حرارة وطعم حريف للأكل",
+  "hybrid": {
+    "semanticRatio": 1.0,
+    "embedder": "gemini"
+  }
+}

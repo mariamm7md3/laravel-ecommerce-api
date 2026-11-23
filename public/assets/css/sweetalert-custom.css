@@ -1,0 +1,69 @@
+/* Delete Confirmation Modal - Custom Styling */
+
+.swal-delete-popup {
+    border-radius: 20px !important;
+    padding: 2rem 1.5rem !important;
+}
+
+.swal-delete-icon-wrapper {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 1.25rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #ff6b6b 0%, #ee5a6f 100%);
+    box-shadow: 0 8px 20px rgba(238, 90, 111, 0.35);
+}
+
+.swal-delete-icon-wrapper i {
+    font-size: 2.2rem;
+    color: #fff;
+}
+
+.swal-delete-title {
+    font-size: 1.35rem !important;
+    font-weight: 700 !important;
+    margin-bottom: 0.5rem !important;
+}
+
+.swal-delete-text {
+    font-size: 0.9rem !important;
+    opacity: 0.7;
+}
+
+.swal-delete-confirm-btn {
+    background: linear-gradient(135deg, #ff6b6b 0%, #ee5a6f 100%) !important;
+    border: none !important;
+    color: #fff !important;
+    padding: 0.6rem 1.5rem !important;
+    border-radius: 10px !important;
+    font-weight: 600 !important;
+    box-shadow: 0 4px 12px rgba(238, 90, 111, 0.3) !important;
+    transition: transform 0.15s ease, box-shadow 0.15s ease !important;
+}
+
+.swal-delete-confirm-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(238, 90, 111, 0.45) !important;
+}
+
+.swal-delete-cancel-btn {
+    background: transparent !important;
+    border: 1.5px solid rgba(148, 148, 148, 0.35) !important;
+    color: inherit !important;
+    padding: 0.6rem 1.5rem !important;
+    border-radius: 10px !important;
+    font-weight: 600 !important;
+    transition: background 0.15s ease !important;
+}
+
+.swal-delete-cancel-btn:hover {
+    background: rgba(148, 148, 148, 0.12) !important;
+}
+
+.swal-delete-actions {
+    gap: 0.75rem !important;
+    margin-top: 1.5rem !important;
+}

@@ -1,0 +1,30 @@
+<?php
+
+
+return [
+    'delivery_times' => 'أوقات التوصيل',
+    'branch' => 'الفرع',
+    'day' => 'اليوم',
+    'time_range' => 'الفترة الزمنية',
+    'active_column' => 'الحالة',
+    'active' => 'نشط',
+    'inactive' => 'غير نشط',
+    'actions' => 'الإجراءات',
+    'no_delivery_times_found' => 'لا توجد أوقات توصيل',
+    'create_delivery_time' => 'إضافة وقت توصيل',
+    'edit_delivery_time' => 'تعديل وقت التوصيل',
+    'filter_branch' => 'كل الفروع',
+    'filter_day' => 'كل الأيام',
+    'search' => 'بحث',
+    'select_branch' => 'اختر الفرع',
+    'select_day' => 'اختر اليوم',
+    'start_time' => 'وقت البداية',
+    'end_time' => 'وقت النهاية',
+    'save' => 'حفظ',
+    'cancel' => 'إلغاء',
+    'created' => 'تم الإضافة بنجاح',
+    'updated' => 'تم التحديث بنجاح',
+    'deleted' => 'تم الحذف بنجاح',
+    'confirm_delete' => 'هل أنت متأكد من الحذف؟',
+    'cannot_delete_has_orders' => 'لا يمكن الحذف لوجود طلبات مرتبطة بهذا الوقت',
+];
